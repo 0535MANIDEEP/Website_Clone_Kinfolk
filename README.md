@@ -48,9 +48,12 @@ Website_Clone_Kinfolk/
 
 ## 📸 Screenshots
 
-| Homepage | Responsive |
-|----------|------------|
-| ![Homepage](./screenshots/home.png) | ![Mobile](./screenshots/responsive.png) |
+![IMG_0935](./screenshots/IMG_0935.png)  
+![IMG_0936](./screenshots/IMG_0936.png)  
+![IMG_0937](./screenshots/IMG_0937.png)  
+![IMG_0938](./screenshots/IMG_0938.png)  
+![IMG_0939](./screenshots/IMG_0939.png)  
+![IMG_0940](./screenshots/IMG_0940.png)
 
 ---
 
